@@ -453,6 +453,7 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Docker for Beginners | Introduction to Docker containerization | https://docker-curriculum.com/ | 2025-07-19 |
 | Kubernetes Tutorial | Step-by-step Kubernetes tutorial | https://kubernetes.io/docs/tutorials/kubernetes-basics/ | 2025-07-19 |
 | GitHub Learning Lab | Interactive tutorials for learning Git, GitHub Actions, and DevOps workflows | https://lab.github.com/ | 2025-07-10 |
+| GitHub Actions CI/CD Tutorial | Hands-on guide to workflows, runners, matrices, caching, artifacts, secrets, Docker, and deployment | https://gravitydevops.com/github-actions-tutorial-ci-cd-from-scratch/ | 2026-11-12 |
 | Katacoda Interactive Learning | Browser-based interactive learning platform for DevOps tools and technologies | https://www.katacoda.com/ | 2025-07-10 |
 | Play with Docker | Browser-based Docker playground for learning container basics | https://labs.play-with-docker.com/ | 2025-07-10 |
 | AWS Skill Builder | Free digital training courses for AWS services and DevOps practices | https://explore.skillbuilder.aws/ | 2025-07-10 |
